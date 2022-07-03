@@ -1,0 +1,43 @@
+body{
+
+background: goldenrod;
+
+margin: 0 auto;
+
+text-align: center;
+
+font-family: "Lucida Console", "sans-serif";
+
+font-weight: bold;
+
+font-size: 20px;
+
+}
+
+#btn-el{
+
+margin: 0 auto;
+
+display: block;
+
+}
+
+#continue-el{
+
+display: none;
+
+margin: 0 auto;
+
+}
+
+}
+
+img{
+
+width: 300px;
+
+height: 300px;
+
+border-radius: 20px;
+
+}
